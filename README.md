@@ -1,12 +1,12 @@
 # PowerBI-Employee-Analytics-Dashboard
 Interactive Employee Analytics Dashboard built with Power BI, Power Query, and DAX to analyze workforce, salary, experience, demographics, and recruitment trends.
 
-# 📊 Employee Analytics Dashboard – Power BI
+#  Employee Analytics Dashboard – Power BI
 
 An interactive Employee Analytics dashboard developed using Power BI to analyze
 workforce distribution, salary trends, employee experience and recruitment patterns.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how raw employee data can be transformed into
 meaningful business insights using Power BI, Power Query and DAX.
@@ -21,7 +21,7 @@ The dashboard provides analysis across:
 - Recruitment trends
 - Employee status
 
-## 🎯 Business Questions
+##  Business Questions
 
 The dashboard was designed to answer questions such as:
 
@@ -39,7 +39,7 @@ The dashboard was designed to answer questions such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
@@ -51,7 +51,7 @@ The dashboard was designed to answer questions such as:
 
 ---
 
-## 🔄 Data Preparation
+## Data Preparation
 
 The dataset was cleaned and transformed using Power Query.
 
@@ -67,7 +67,7 @@ Steps included:
 
 ---
 
-## 📊 Dashboard Components
+##  Dashboard Components
 
 ### KPI Cards
 
@@ -100,7 +100,7 @@ The dashboard includes interactive filters for:
 
 ---
 
-## 🧮 DAX Measures
+##  DAX Measures
 
 ### Total Employees
 
